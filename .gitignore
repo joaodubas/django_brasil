@@ -1,0 +1,16 @@
+# DIRS
+/static/admin
+/media
+/log
+/.DS*
+/db
+/.code*
+/.idea
+
+# FILES
+local.py
+._*
+*.pyc
+*.db
+~*
+*.swp
